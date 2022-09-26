@@ -1,0 +1,34 @@
+﻿"Defining Event for General Aviation Accidents, 2019",,
+Defining Event,Fatal,Non-Fatal
+Loss of Control on Ground,0,219
+Loss of Control In-Flight,95,121
+System/Component Failure - Powerplant,24,192
+Abnormal Runway Contact,3,158
+Fuel Related,10,46
+Collision on Takeoff or Landing,5,39
+System/Component Failure - Non-power,3,39
+Low Altitude Operation,8,29
+Ground Collision,0,25
+Runway Excursion,0,21
+Unintended Flight Into IMC,18,2
+Controlled Flight Into Terrain,13,5
+Abrupt Maneuver,6,6
+Midair,6,4
+Bird Strike,1,9
+Loss of Lift,1,8
+Fire - Non-Impact,0,9
+Undershoot/Overshoot,1,7
+Ground Handling,1,4
+Turbulence Encounter,1,4
+Wildlife Encounter,0,5
+Windshear/Thunderstorm,3,1
+Medical Event,3,0
+Navigation Error,2,1
+Runway Incursion - Vehicle,2,0
+Aerodrome,0,2
+Icing,1,0
+Cabin Safety Events,0,1
+Glider Towing,0,1
+Simulated/training event,0,1
+Other,7,25
+Unknown,23,13
