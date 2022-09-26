@@ -18,5 +18,5 @@ git clone https://github.com/preethika-ajay/UE20CS312-DA-PROJECT
 
 To run the ipynb file, open the terminal and type the following command.
 ```
-jupyter notebok
+jupyter notebook
 ```
