@@ -1,6 +1,6 @@
 # Air Crash Analysis and Prediction  
 
-Semester V Project for Data Analytics - UE20CS312  
+PES University Semester V Project for Data Analytics - UE20CS312  
 
 Team members: 
 - Nandana Manoj - PES2UG20CS215
